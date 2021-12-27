@@ -5,7 +5,15 @@ body {
 * {
   box-sizing: border-box;
 }
+#select:hover{
+  background-color:white;
+  color:black;
 
+}
+.details:hover {
+  background-color:black;
+  color:white;
+}
 .container {
   height: 100vh;
   width: 100vw;
