@@ -61,6 +61,7 @@ body {
   margin-right: 30px;
 }
 
+
 .header-above-right > button {
   font-family: Poly;
   color: #ffffff;
@@ -114,7 +115,11 @@ body {
   justify-content: space-evenly;
   margin-left: 12%;
 }
-
+.btn:hover {
+  
+  border-bottom: 7px solid red;
+  
+}
 .header-below-right > button,
 .dropbtn {
   font-family: Poly;
