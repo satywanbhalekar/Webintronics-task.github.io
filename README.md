@@ -1,3 +1,3 @@
 # Webintronics-task
 
-Demo: https://github.com/satywanbhalekar/Webintronics-task.github.io.git
+Demo: https://satywanbhalekar.github.io/Webintronics-task.github.io/
